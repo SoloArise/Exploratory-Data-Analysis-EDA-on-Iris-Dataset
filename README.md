@@ -16,6 +16,6 @@ The dataset used is the Iris dataset, which includes:
 - Seaborn
 
 ## Files
-- **EDAonIris.py**: Main Python script for EDA.
+- **EDAonIris.ipynb**: Main Python script for EDA.
 - **Iris.csv**: The dataset file.
 - **Requirements.txt**: List of Python libraries required to run the script.
